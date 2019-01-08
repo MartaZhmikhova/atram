@@ -1,0 +1,73 @@
+@import var
+
+.filters
+  margin-top: 15px
+  margin-bottom: 40px
+  text-align: center
+  &_list
+    font: 16px/24px $font
+    font-weight: 500
+    color: $text_color
+    margin-left: 15px
+    margin-right: 15px
+    cursor: pointer
+    text-transform: capitalize
+    padding-bottom: 4px
+    display: inline-block
+    &.active
+      border-bottom: 2px solid $accent
+.sets
+  &_list
+    width: 25%
+    height: 300px
+    transition: all 0.6s
+    display: block
+    opacity: 1
+    position: relative
+    &:hover
+      transition: all 0.6s
+      cursor: pointer
+      .sets_list_text
+        display: flex
+        transition: all 0.6s
+    &_img
+      position: absolute
+      top: 0
+      left: 0
+      z-index: 1
+      width: 100%
+      height: 100%
+      display: block
+    &_text
+      position: relative
+      z-index: 2
+      text-align: center
+      width: 100%
+      height: 100%
+      background: rgba(0,0,0,.7)
+      transition: all 0.6s
+      color: #fff
+      text-transform: capitalize
+      justify-content: center
+      align-items: center
+      flex-wrap: wrap
+      display: none
+      .h3
+        font: 20px/25px $font
+        font-weight: 500
+        color: $white
+      p
+        font: 15px/25px $font
+
+@media only screen and (max-width : 992px)
+  .sets
+    &_list
+      width: 33.33%
+@media only screen and (max-width : 768px)
+  .sets
+    &_list
+      width: 50%
+@media only screen and (max-width : 480px)
+  .sets
+    &_list
+      width: 100%

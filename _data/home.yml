@@ -1,0 +1,149 @@
+homeCArdsTitle:
+  - title1: Main
+    title2: Directions
+    subtitle: We offer a wide-range of financial and accounting services to all types of businesses. Learn more about our main directions and select what you need. We also provide the first-time consultation.
+homeCArds:
+  - img: img/homeCards/worlwide.svg
+    alt: images
+    title: Web Development &amp; Design
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been the industry's standard dummy text.
+  - img: img/homeCards/shield.svg
+    alt: images
+    title: Digital Branding &amp; Marketing
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  - img: img/homeCards/analytics.svg
+    alt: images
+    title: Search Analytics &amp; Marketing
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+imageSection:
+  - img: img/imageSection/spid.jpg
+    alt: spid
+    title: Page Speed Optimized
+    description:
+      - text: Our strong conviction is that if a business is to be optimized, it’s to be optimized in a full cycle manner!
+      - text: Our goal is simple; we want to help your business achieve the greatest possible success by providing the valuable services you need at a reasonable cost. We believe all businesses small and large should have access to world-class accounting, bookkeeping, payroll and consulting services. We are dedicated to serving you.
+  - img: img/imageSection/mobile.jpg
+    alt: mobile
+    title: Optimized for mobile
+    description:
+      - text: Our strong conviction is that if a business is to be optimized, it’s to be optimized in a full cycle manner!
+      - text: Our goal is simple; we want to help your business achieve the greatest possible success by providing...
+
+filtersTabTitle: Recent Works
+filtersTab:
+  - name: all projects
+    filter: '*'
+  - name: design projects
+    filter: .design
+  - name: art projects
+    filter: .art
+  - name: other projects
+    filter: .other
+filtersTabList:
+  - img: img/homeGallery/img_1.jpg
+    alt: alt
+    filterNames: design
+    title: Project Title
+    subtitle: design design design design design
+  - img: img/homeGallery/img_2.jpg
+    alt: alt
+    filterNames: other
+    title: Project Title other
+    subtitle: other
+  - img: img/homeGallery/img_3.png
+    alt: alt
+    filterNames: art
+    title: Project Title
+    subtitle: art
+  - img: img/homeGallery/img_4.jpg
+    alt: alt
+    filterNames: design art
+    title: Project Title design
+    subtitle: design
+  - img: img/homeGallery/img_5.jpg
+    alt: alt
+    filterNames: art
+    title: Project Title
+    subtitle: art
+  - img: img/homeGallery/img_6.jpg
+    alt: alt
+    filterNames: other
+    title: Project Title other
+    subtitle: other
+  - img: img/homeGallery/img_7.jpg
+    alt: alt
+    filterNames: art
+    title: Project Title
+    subtitle: art art art art art art art
+  - img: img/homeGallery/img_8.jpg
+    alt: alt
+    filterNames: other art
+    title: Project Title
+    subtitle: other
+  - img: img/homeGallery/img_9.jpg
+    alt: alt
+    filterNames: art
+    title: Project Title
+    subtitle: art
+  - img: img/homeGallery/img_10.jpg
+    alt: alt
+    filterNames: design art
+    title: Project Title design
+    subtitle: design
+
+homeAction:
+  - img: img/ori.jpg
+    alt: alt
+    text: We'd love to hear about your project
+
+homeTeam:
+  - title1: Our
+    titleAccent: Creative
+    title2: Team
+    subtitle: We offer a wide-range of financial and accounting services to all types of businesses. Learn more about our main directions and select what you need. We also provide the first-time consultation.
+homeTeamList:
+  - img: img/homeTeam/img_1.jpg
+    alt: alt
+    title: Andrew Brown
+    subtitle: Founder
+  - img: img/homeTeam/img_2.jpg
+    alt: alt
+    title: Emilly Doe
+    subtitle: 3D Visualizer
+  - img: img/homeTeam/img_3.jpg
+    alt: alt
+    title: John Pawlin
+    subtitle: Manager
+
+TestimonialsBG: img/carouselBg__home.jpg
+TestimonialsTitle: Our Clients
+Testimonials:
+  - img: img/homeTeam/img_1.jpg
+    alt: alt
+    title: John Doe
+    subtitle: Doad inc.
+    text: Nunc nec dictum purus. Nam porttitor molestie dolor nec lacinia. Donec placerat magna erat, non eleifend neque convallis at. Morbi felis sem, molestie, blandit ac quam. Fusce aliquet, est at rhoncus aliquam vehicu.
+  - img: img/homeTeam/img_3.jpg
+    alt: alt
+    title: Bruce Matey
+    subtitle: Doodle inc.
+    text: Nunc nec dictum purus. Nam porttitor molestie dolor nec lacinia. Donec placerat magna erat, non eleifend neque convallis at.
+  - img: img/homeTeam/img_2.jpg
+    alt: alt
+    title: Emilly Doe
+    subtitle: Doodle inc.
+    text: Donec placerat magna erat, non eleifend neque convallis at. Morbi felis sem, molestie, blandit ac quam. Fusce aliquet, est at rhoncus aliquam vehicu.
+
+ContactInfo:
+  - img: img/footer_Icon/map.svg
+    alt: alt
+    title: Address
+    subtitle: USA - New York
+  - img: img/footer_Icon/phone.svg
+    alt: alt
+    title: Phone
+    subtitle: 000-000-000-000
+  - img: img/footer_Icon/mail.svg
+    alt: alt
+    title: Email
+    subtitle: atram@gmail.com

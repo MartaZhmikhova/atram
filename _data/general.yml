@@ -1,0 +1,18 @@
+logo:
+  - href: /
+    logo: img/AtraM.png
+    alt: AtraM
+menu:
+  - name: Home
+    href: /
+  - name: contact
+    href: /contact
+  - name: about
+    href: /about
+  - name: product
+    href: /product
+
+homeHero: Design | Development | Photo
+
+btnType1: Start a project
+btnType2: Read More
